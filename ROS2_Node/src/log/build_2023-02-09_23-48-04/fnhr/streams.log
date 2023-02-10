@@ -1,0 +1,25 @@
+[0.930s] Invoking command in '/ros_ws/src': PYTHONPATH=/ros_ws/src/build/fnhr/prefix_override:/ros_ws/src/install/fnhr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/fnhr build --build-base /ros_ws/src/build/fnhr/build install --record /ros_ws/src/build/fnhr/install.log --single-version-externally-managed
+[1.336s] running egg_info
+[1.339s] writing build/fnhr/fnhr.egg-info/PKG-INFO
+[1.343s] writing dependency_links to build/fnhr/fnhr.egg-info/dependency_links.txt
+[1.346s] writing entry points to build/fnhr/fnhr.egg-info/entry_points.txt
+[1.349s] writing requirements to build/fnhr/fnhr.egg-info/requires.txt
+[1.351s] writing top-level names to build/fnhr/fnhr.egg-info/top_level.txt
+[1.370s] reading manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+[1.408s] writing manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+[1.410s] running build
+[1.410s] running build_py
+[1.433s] running install
+[1.434s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.434s]   warnings.warn(
+[1.435s] running install_lib
+[1.494s] byte-compiling /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr/wifi.py to wifi.cpython-310.pyc
+[1.523s] running install_data
+[1.541s] copying fnhr/Orders.py -> /ros_ws/src/install/fnhr/lib/fnhr
+[1.549s] running install_egg_info
+[1.555s] removing '/ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr-0.0.0-py3.10.egg-info' (and everything under it)
+[1.586s] Copying build/fnhr/fnhr.egg-info to /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr-0.0.0-py3.10.egg-info
+[1.718s] running install_scripts
+[1.759s] Installing wifi script to /ros_ws/src/install/fnhr/lib/fnhr
+[1.766s] writing list of installed files to '/ros_ws/src/build/fnhr/install.log'
+[1.782s] Invoked command in '/ros_ws/src' returned '0': PYTHONPATH=/ros_ws/src/build/fnhr/prefix_override:/ros_ws/src/install/fnhr/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/fnhr build --build-base /ros_ws/src/build/fnhr/build install --record /ros_ws/src/build/fnhr/install.log --single-version-externally-managed

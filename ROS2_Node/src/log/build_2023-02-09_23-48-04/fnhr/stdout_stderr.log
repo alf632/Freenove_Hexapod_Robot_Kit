@@ -1,0 +1,23 @@
+running egg_info
+writing build/fnhr/fnhr.egg-info/PKG-INFO
+writing dependency_links to build/fnhr/fnhr.egg-info/dependency_links.txt
+writing entry points to build/fnhr/fnhr.egg-info/entry_points.txt
+writing requirements to build/fnhr/fnhr.egg-info/requires.txt
+writing top-level names to build/fnhr/fnhr.egg-info/top_level.txt
+reading manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+writing manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+byte-compiling /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr/wifi.py to wifi.cpython-310.pyc
+running install_data
+copying fnhr/Orders.py -> /ros_ws/src/install/fnhr/lib/fnhr
+running install_egg_info
+removing '/ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/fnhr/fnhr.egg-info to /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr-0.0.0-py3.10.egg-info
+running install_scripts
+Installing wifi script to /ros_ws/src/install/fnhr/lib/fnhr
+writing list of installed files to '/ros_ws/src/build/fnhr/install.log'

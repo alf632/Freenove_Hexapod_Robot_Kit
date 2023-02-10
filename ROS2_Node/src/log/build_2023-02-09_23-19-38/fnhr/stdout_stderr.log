@@ -1,0 +1,40 @@
+running egg_info
+creating build/fnhr/fnhr.egg-info
+writing build/fnhr/fnhr.egg-info/PKG-INFO
+writing dependency_links to build/fnhr/fnhr.egg-info/dependency_links.txt
+writing entry points to build/fnhr/fnhr.egg-info/entry_points.txt
+writing requirements to build/fnhr/fnhr.egg-info/requires.txt
+writing top-level names to build/fnhr/fnhr.egg-info/top_level.txt
+writing manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+reading manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+writing manifest file 'build/fnhr/fnhr.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /ros_ws/src/build/fnhr/build
+creating /ros_ws/src/build/fnhr/build/lib
+creating /ros_ws/src/build/fnhr/build/lib/fnhr
+copying fnhr/Orders.py -> /ros_ws/src/build/fnhr/build/lib/fnhr
+copying fnhr/wifi.py -> /ros_ws/src/build/fnhr/build/lib/fnhr
+copying fnhr/__init__.py -> /ros_ws/src/build/fnhr/build/lib/fnhr
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr
+copying /ros_ws/src/build/fnhr/build/lib/fnhr/Orders.py -> /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr
+copying /ros_ws/src/build/fnhr/build/lib/fnhr/wifi.py -> /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr
+copying /ros_ws/src/build/fnhr/build/lib/fnhr/__init__.py -> /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr
+byte-compiling /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr/Orders.py to Orders.cpython-310.pyc
+byte-compiling /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr/wifi.py to wifi.cpython-310.pyc
+byte-compiling /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /ros_ws/src/install/fnhr/share/ament_index
+creating /ros_ws/src/install/fnhr/share/ament_index/resource_index
+creating /ros_ws/src/install/fnhr/share/ament_index/resource_index/packages
+copying resource/fnhr -> /ros_ws/src/install/fnhr/share/ament_index/resource_index/packages
+copying package.xml -> /ros_ws/src/install/fnhr/share/fnhr
+running install_egg_info
+Copying build/fnhr/fnhr.egg-info to /ros_ws/src/install/fnhr/lib/python3.10/site-packages/fnhr-0.0.0-py3.10.egg-info
+running install_scripts
+Installing wifi script to /ros_ws/src/install/fnhr/lib/fnhr
+writing list of installed files to '/ros_ws/src/build/fnhr/install.log'
